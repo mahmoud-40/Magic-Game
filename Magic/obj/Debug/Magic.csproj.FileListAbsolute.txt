@@ -1,0 +1,12 @@
+C:\Users\melba\source\repos\Magic\Magic\bin\Debug\Magic.exe.config
+C:\Users\melba\source\repos\Magic\Magic\bin\Debug\Magic.exe
+C:\Users\melba\source\repos\Magic\Magic\bin\Debug\Magic.pdb
+C:\Users\melba\source\repos\Magic\Magic\obj\Debug\Magic.csproj.AssemblyReference.cache
+C:\Users\melba\source\repos\Magic\Magic\obj\Debug\Magic.Form1.resources
+C:\Users\melba\source\repos\Magic\Magic\obj\Debug\Magic.Properties.Resources.resources
+C:\Users\melba\source\repos\Magic\Magic\obj\Debug\Magic.csproj.GenerateResource.cache
+C:\Users\melba\source\repos\Magic\Magic\obj\Debug\Magic.csproj.CoreCompileInputs.cache
+C:\Users\melba\source\repos\Magic\Magic\obj\Debug\Magic.exe
+C:\Users\melba\source\repos\Magic\Magic\obj\Debug\Magic.pdb
+C:\Users\melba\source\repos\Magic\Magic\obj\Debug\Magic.Form2.resources
+C:\Users\melba\source\repos\Magic\Magic\obj\Debug\Magic.Form3.resources
